@@ -5,7 +5,7 @@
 ##Getting started
 
 ``` shell
-git clone https://github.com/superhighfives/an-almost-static-stack.git
+git clone https://github.com/Albertik/static.git
 cd static
 npm install
 npm run start
