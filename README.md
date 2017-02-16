@@ -1,6 +1,6 @@
 #Static site
 
-![Demo](https://devbridge-avrmtcyrwd.now.sh/)
+[Demo](https://devbridge-avrmtcyrwd.now.sh/)
 
 ##Getting started
 
